@@ -1,5 +1,5 @@
 # SocialMediaPlatformCPP
-Hi! This repository includes a simple Social Media Platform implementation in C++.  The project represents an example for OOP, while heap usage can also be observed on the implementation.
+Hi! This repository includes a simple Social Media Platform implementation in C++.  The project represents an example for **OOP**, while **heap usage** can also be observed on the implementation. **Linked Lists** are used as a data structure.
 
 I will be uploading the files in two steps: one will include source files (.h) and one will include implementation files (.cpp). It is a good practice to create files such way, because source files give the necessary utilization information to the user, while protecting the implementation the developer does not share. 
 
